@@ -1,0 +1,13 @@
+C:\Users\lukee\Desktop\CSharp Projects\Magic8Ball\Magic8Ball\Magic8Ball\bin\Debug\netcoreapp3.1\Magic8Ball.exe
+C:\Users\lukee\Desktop\CSharp Projects\Magic8Ball\Magic8Ball\Magic8Ball\bin\Debug\netcoreapp3.1\Magic8Ball.deps.json
+C:\Users\lukee\Desktop\CSharp Projects\Magic8Ball\Magic8Ball\Magic8Ball\bin\Debug\netcoreapp3.1\Magic8Ball.runtimeconfig.json
+C:\Users\lukee\Desktop\CSharp Projects\Magic8Ball\Magic8Ball\Magic8Ball\bin\Debug\netcoreapp3.1\Magic8Ball.runtimeconfig.dev.json
+C:\Users\lukee\Desktop\CSharp Projects\Magic8Ball\Magic8Ball\Magic8Ball\bin\Debug\netcoreapp3.1\Magic8Ball.dll
+C:\Users\lukee\Desktop\CSharp Projects\Magic8Ball\Magic8Ball\Magic8Ball\bin\Debug\netcoreapp3.1\Magic8Ball.pdb
+C:\Users\lukee\Desktop\CSharp Projects\Magic8Ball\Magic8Ball\Magic8Ball\obj\Debug\netcoreapp3.1\Magic8Ball.csprojAssemblyReference.cache
+C:\Users\lukee\Desktop\CSharp Projects\Magic8Ball\Magic8Ball\Magic8Ball\obj\Debug\netcoreapp3.1\Magic8Ball.AssemblyInfoInputs.cache
+C:\Users\lukee\Desktop\CSharp Projects\Magic8Ball\Magic8Ball\Magic8Ball\obj\Debug\netcoreapp3.1\Magic8Ball.AssemblyInfo.cs
+C:\Users\lukee\Desktop\CSharp Projects\Magic8Ball\Magic8Ball\Magic8Ball\obj\Debug\netcoreapp3.1\Magic8Ball.csproj.CoreCompileInputs.cache
+C:\Users\lukee\Desktop\CSharp Projects\Magic8Ball\Magic8Ball\Magic8Ball\obj\Debug\netcoreapp3.1\Magic8Ball.dll
+C:\Users\lukee\Desktop\CSharp Projects\Magic8Ball\Magic8Ball\Magic8Ball\obj\Debug\netcoreapp3.1\Magic8Ball.pdb
+C:\Users\lukee\Desktop\CSharp Projects\Magic8Ball\Magic8Ball\Magic8Ball\obj\Debug\netcoreapp3.1\Magic8Ball.genruntimeconfig.cache
